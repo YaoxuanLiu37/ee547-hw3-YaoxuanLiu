@@ -1,4 +1,4 @@
-# Problem 2 – DynamoDB Schema, API, and EC2 Deployment Analysis
+# Problem 2: ArXiv Paper Discovery with DynamoDB
 
 ## 1. Schema Design Decisions
 
@@ -117,3 +117,4 @@ Average response time was < 100 ms for all queries.
 All required API endpoints, GSIs, and non-normalized structures were implemented and verified.  
 The EC2 deployment is accessible publicly and meets the < 200 ms latency requirement for up to 500 papers.  
 The design aligns with all specifications.
+
