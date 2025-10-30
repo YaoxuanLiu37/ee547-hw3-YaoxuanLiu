@@ -2,5 +2,5 @@
 
 **Name:** YAOXUAN LIU  
 **Email:** yaoxuanl@usc.edu  
-**AWS Region** us-west-1
+**AWS Region:** us-west-1
 
