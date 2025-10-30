@@ -1,4 +1,4 @@
-# EE547 Homework 3 - Part F: README Analysis
+# EE547 Homework 3
 
 ## 1. Schema Decisions: Natural vs Surrogate Keys
 
@@ -125,4 +125,5 @@ With indexes applied, all ten queries execute well under the **500 ms** performa
 ---
 
 *Author: Yaoxuan Liu*  
+
 
