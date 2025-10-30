@@ -1,0 +1,106 @@
+line_name,stop_name,sequence,time_offset
+Route 20,5th / Colorado,1,0
+Route 20,5th / Colorado,2,0
+Route 20,5th / Santa Monica,3,2
+Route 20,Wilshire / 6th,4,4
+Route 20,Wilshire / Lincoln,5,5
+Route 20,Wilshire / 11th,6,6
+Route 20,Wilshire / 14th,7,7
+Route 20,Wilshire / 17th,8,8
+Route 20,Wilshire / 20th,9,8
+Route 20,Wilshire / 23rd,10,9
+Route 20,Wilshire / 26th,11,10
+Route 20,Wilshire / Yale,12,10
+Route 20,Wilshire / Berkeley,13,11
+Route 20,Wilshire / McClellan,14,11
+Route 20,Wilshire / Bundy,15,12
+Route 20,Wilshire / Brockton,16,12
+Route 20,Wilshire / Westgate,17,13
+Route 20,Wilshire / Barrington,18,13
+Route 20,Wilshire / Federal,19,14
+Route 20,Wilshire / Bonsall,20,15
+Route 20,Wilshire / Veteran,21,17
+Route 2,Le Conte / Broxton,1,0
+Route 2,Le Conte / Westwood,2,2
+Route 2,Le Conte / Tiverton,3,2
+Route 2,Hilgard / Le Conte,4,3
+Route 2,Hilgard / Manning,5,3
+Route 2,Hilgard / Westholme,6,4
+Route 2,Hilgard / Wyton,7,5
+Route 2,Hilgard / Charing Cross,8,6
+Route 2,Sunset / Beverly Glen,9,7
+Route 2,Sunset / Charing Cross,10,9
+Route 2,Sunset / Carolwood,11,10
+Route 2,Sunset / Copley,12,11
+Route 2,Sunset / Whittier,13,11
+Route 2,Sunset / Bedford,14,12
+Route 2,Sunset / Rodeo,15,13
+Route 2,Sunset / Beverly,16,13
+Route 2,Sunset / Rexford,17,13
+Route 2,Sunset / Alpine,18,14
+Route 2,Sunset / Foothill,19,14
+Route 2,Sunset / Maple,20,15
+Route 2,Sunset / Hillcrest,21,16
+Route 33,Division 13 Layover,1,0
+Route 33,Patsaouras Transit Plaza,2,5
+Route 33,Cesar E Chavez / Alameda,3,8
+Route 33,Spring / Temple,4,10
+Route 33,Spring / 1st,5,10
+Route 33,Spring / 3rd,6,12
+Route 33,Spring / 6th,7,13
+Route 33,Spring / 7th,8,14
+Route 33,Main / 9th,9,21
+Route 33,Main / 11th,10,22
+Route 33,Main / Pico,11,23
+Route 33,17th / Broadway,12,25
+Route 33,Venice / Hill,13,26
+Route 33,Venice / Grand,14,26
+Route 33,Venice / Hope,15,27
+Route 33,Venice / Figueroa,16,28
+Route 33,Venice / Oak,17,29
+Route 33,Venice / Union,18,30
+Route 33,Venice / Burlington,19,31
+Route 33,Venice / Hoover,20,32
+Route 33,Venice / Magnolia,21,33
+Route 720,Alameda / 6th Layover,1,0
+Route 720,Central / 6th,2,3
+Route 720,5th / San Pedro,3,5
+Route 720,5th / Main,4,7
+Route 720,5th / Broadway,5,8
+Route 720,5th / Grand,6,10
+Route 720,6th / Witmer,7,14
+Route 720,Wilshire / Alvarado,8,18
+Route 720,Wilshire / Coronado,9,21
+Route 720,Wilshire / Vermont,10,24
+Route 720,Wilshire / Normandie,11,27
+Route 720,Wilshire / Western,12,29
+Route 720,Wilshire / Crenshaw,13,32
+Route 720,Wilshire / La Brea,14,39
+Route 720,Wilshire / Cloverdale,15,40
+Route 720,Wilshire / Fairfax,16,44
+Route 720,Wilshire / Crescent Heights,17,45
+Route 720,Wilshire / Willaman,18,51
+Route 720,Wilshire / Robertson,19,52
+Route 720,Wilshire / Rexford,20,56
+Route 720,Wilshire / Rodeo,21,58
+Route 4,Broadway / Venice,1,0
+Route 4,Broadway / Pico,2,1
+Route 4,Broadway / 12th,3,2
+Route 4,Broadway / Olympic,4,4
+Route 4,Broadway / 8th,5,5
+Route 4,Broadway / 7th,6,6
+Route 4,Broadway / 5th,7,7
+Route 4,Broadway / 2nd,8,9
+Route 4,Broadway / 1st,9,10
+Route 4,Broadway / Arcadia,10,11
+Route 4,Cesar E Chavez / Broadway,11,13
+Route 4,Cesar E Chavez / Grand,12,14
+Route 4,Sunset / Figueroa,13,15
+Route 4,Sunset / Beaudry,14,16
+Route 4,Sunset / Marion,15,16
+Route 4,Sunset / Vin Scully - Dodger Stadium,16,17
+Route 4,Sunset / Douglas,17,18
+Route 4,Sunset / Portia,18,18
+Route 4,Sunset / Echo Park,19,19
+Route 4,Sunset / Park,20,20
+Route 4,Sunset / Alvarado,21,20
